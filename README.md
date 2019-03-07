@@ -15,7 +15,9 @@ This class is based on and inspired by serveral classes:
 * [Interactive Machine Learning](https://github.com/imachines/IMA-Interactive-Machine-Learning) at IMA, NYU Shanghai
 * [Machine Learning for the Web](https://github.com/yining1023/machine-learning-for-the-web) at ITP, NYU
 
-And most of the class examples are adapted from previous classes and [ml5.js official examples](https://ml5js.org/docs/quick-start).
+And most of the class examples are adapted from previous classes and [ml5.js official examples](https://ml5js.org/docs/quick-start)
+
+This class is developed for [**OF COURSE**](http://ofcourse.io/) and supported by [**Art Machines**](https://www.artmachines.net)
 
 ## Syllabus
 ### Class 1 Introduction to Machine Learning and ML5JS
@@ -82,3 +84,4 @@ And most of the class examples are adapted from previous classes and [ml5.js off
   - BodyPix from tf.js-models
   - SketchRNN, Word2Vec, LSTM quick intro
 * [Homework]()
+
