@@ -41,6 +41,14 @@ The goal of this class is to learn and understand basic machine learning concept
   * A creative application demo with video classifer
 * [Homework]()
 
+### Class 3 Obect Detection and Classification - YOLO with Video/Webcam
+
+* How YOLO Works
+* Coding session:
+  * How ml5js YOLO works
+  * A creative application demo with YOLO
+* [Homework]()
+
 ### Class 4 Skelton Tracking - Posenet 
 
 * How Posenet Works
