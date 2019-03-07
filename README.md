@@ -8,7 +8,7 @@
 * Learning Hours: 8 Classes * ( approx. 1 ~ 1.5 hours video lecture + approx. 3 hours practice)
 
 ## Class Goals
-The goal of this class is to learn and understand basic machine learning concepts, and focus on application of machine learning techniques (mostly machine vision related functions) and to create artistic or fun interaction in browser. Libraries like [ml5.js](https://ml5js.org/) and [TensorFlow.js](https://js.tensorflow.org/) will be used and machine vision related models/algorithms like mobilenet,posenet, KNN will be explained in details. In the class, we will run models in the browser using high-level APIs from ml5.js, as well as TensorFlow.js to custom software/website to achieve creative goals. At the completion of this course, students will have a good understanding of a few machine learning models, how do they work, (maybe)how to train these models, and their use case to creative projects.
+The goal of this class is to learn and understand basic machine learning concepts, and focus on the applications of machine learning techniques (mostly machine vision related) and to create artistic or fun interaction in the browser. Libraries like [ml5.js](https://ml5js.org/) and [TensorFlow.js](https://js.tensorflow.org/) will be used and machine vision related models/algorithms like Mobilenet, Posenet, KNN will be explained in details. In the class, we will run models in the browser using high-level APIs from ml5.js, as well as TensorFlow.js to custom software/website to achieve creative goals. At the completion of this course, students will have a good understanding of a few machine learning models, how do they work, (maybe)how to train these models, and their use case to creative projects.
 
 ## Special Thanks
 * This class is based on and inspired by several classes:
@@ -30,18 +30,18 @@ The goal of this class is to learn and understand basic machine learning concept
 * Coding session:
   * Installing ml5.js
   * Running an example with ml5.js
-  * How to host p5 sketch on github pages
+  * How to host p5 sketch on Github pages
 * [Homework]()
 
 ### Class 2 Image Classification - MobileNet and Video Classification
 
 * How Neural Networks Classifier Works
 * Coding session:
-  * How ml5js video classfier works
-  * A creative application demo with video classifer
+  * How ml5js video classifier works
+  * A creative application demo with video classifier
 * [Homework]()
 
-### Class 3 Obect Detection and Classification - YOLO with Video/Webcam
+### Class 3 Object Detection and Classification - YOLO with Video/Webcam
 
 * How YOLO Works
 * Coding session:
@@ -54,7 +54,7 @@ The goal of this class is to learn and understand basic machine learning concept
 * How Posenet Works
 * Coding session:
   * Make a Posenet working prototype
-  * A creative application demo with posenet
+  * A creative application demo with Posenet
 * [Homework]()
 
 ### Class 5 Image Classification - KNN classifier
@@ -82,7 +82,7 @@ The goal of this class is to learn and understand basic machine learning concept
 * Coding session:
   * Running style transfer model in ml5.js
   * Running pix2pix with ml5.js
-  * Breif intro and more details in [🆕❤️GANerative Arts](https://github.com/artmachines/GANerative-Arts)
+  * Brief intro and more details in [🆕❤️GANerative Arts](https://github.com/artmachines/GANerative-Arts)
     * Training a new Style Transfer model
     * Prepare dataset for pix2pix
     * Training a new pix2pix model
@@ -91,7 +91,7 @@ The goal of this class is to learn and understand basic machine learning concept
 ### Week 8 BodyPix with 🆕TensorFlow.js and More: Draw/Sketch(SketchRNN), Music/Composition(CharRNN),Text Generation(LSTM), Text Analysis/Generation(word2vec) .etc
 
 * How BodyPix Works
-* Other General Taskes ML5JS can Do 
+* Other General Tasks ML5JS can Do 
 * Coding session:
   - BodyPix from tf.js-models
   - SketchRNN, Word2Vec, LSTM quick intro
