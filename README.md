@@ -8,7 +8,7 @@
 * Learning Hours: 8 Classes * ( approx. 1 ~ 1.5 hours video lecture + approx. 3 hours practice)
 
 ## Class Goals
-The goal of this class is to learn and understand basic machine learning concepts, and focus on application of machine learning techniques and to create artistic and creative interaction in browser. Libraries like [ml5.js](https://ml5js.org/) and [TensorFlow.js](https://js.tensorflow.org/) will be covered. In the class, we will run models in the browser using high-level APIs from ml5.js, as well as TensorFlow.js to custom software/website to achieve creative goals. At the completion of this course, students will have a good understanding of a few machine learning models, how do they work, (maybe)how to train these models, and their use case to creative projects.
+The goal of this class is to learn and understand basic machine learning concepts, and focus on application of machine learning techniques (mostly machine vision related functions) and to create artistic or fun interaction in browser. Libraries like [ml5.js](https://ml5js.org/) and [TensorFlow.js](https://js.tensorflow.org/) will be used and machine vision related models/algorithms like mobilenet,posenet, KNN will be explained in details. In the class, we will run models in the browser using high-level APIs from ml5.js, as well as TensorFlow.js to custom software/website to achieve creative goals. At the completion of this course, students will have a good understanding of a few machine learning models, how do they work, (maybe)how to train these models, and their use case to creative projects.
 
 ## Special Thanks
 This class is based on and inspired by serveral classes:
@@ -43,7 +43,7 @@ And most of the class examples are adapted from previous classes and [ml5.js off
   * A creative application demo with posenet
 * [Homework]()
 
-### Class 5 Image Classification - (Interactive Training with) KNN classifier 
+### Class 5 Image Classification - [🆕❤️Interactive Machine Learning]() KNN classifier 
 
 * How KNN Classifier Works
 * Coding session:
@@ -51,26 +51,31 @@ And most of the class examples are adapted from previous classes and [ml5.js off
   * Regression with feature extractor
 * [Homework]()
 
-### Class 6 Image Style Translation: Neural Style transfer
+### Class 6 Image Classification -  [🆕❤️Interactive Machine Learning]() KNN classifier + Posenet
+
+* How KNN Classifier Works
+* Coding session:
+  * Make a KNN Image Classifier
+  * Regression with feature extractor
+* [Homework]()
+
+### Class 7 Image Style Translation - [🆕❤️GANerative Arts] Neural Style transfer and Pix2Pix 
 
 * How Neural Style Transfer Works
-* Coding session:
-  * Running Style Transfer model in ml5.js
-  * Training a new Style Transfer model
-* [Homework]()
-
-### Week 7 Image Style Translation: Pix2Pix, Paired Image-to-Image Translation
-
 * How Pix2Pix Works
 * Coding session:
+  * Running style transfer model in ml5.js
   * Running pix2pix with ml5.js
-  * Prepare dataset for pix2pix
-  * Training a new pix2pix model
+  * Breif intro and more details in [🆕❤️GANerative Arts]
+    * Training a new Style Transfer model
+    * Prepare dataset for pix2pix
+    * Training a new pix2pix model
 * [Homework]()
 
-### Week 8 BodyPix with TensorFlow.js and More: SketchRNN, Word2Vec, LSTM and .etc
+### Week 8 BodyPix with 🆕TensorFlow.js and More: Draw/Sketch(SketchRNN), Music/Composition(CharRNN),Text Generation(LSTM), Text Analysis/Generation(word2vec) .etc
 
 * How BodyPix Works
+* Other General Taskes ML5JS can Do 
 * Coding session:
   - BodyPix from tf.js-models
   - SketchRNN, Word2Vec, LSTM quick intro
