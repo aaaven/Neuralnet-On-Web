@@ -11,11 +11,17 @@
 The goal of this class is to learn and understand basic machine learning concepts, and focus on application of machine learning techniques (mostly machine vision related functions) and to create artistic or fun interaction in browser. Libraries like [ml5.js](https://ml5js.org/) and [TensorFlow.js](https://js.tensorflow.org/) will be used and machine vision related models/algorithms like mobilenet,posenet, KNN will be explained in details. In the class, we will run models in the browser using high-level APIs from ml5.js, as well as TensorFlow.js to custom software/website to achieve creative goals. At the completion of this course, students will have a good understanding of a few machine learning models, how do they work, (maybe)how to train these models, and their use case to creative projects.
 
 ## Special Thanks
-This class is based on and inspired by serveral classes:
-* [Interactive Machine Learning](https://github.com/imachines/IMA-Interactive-Machine-Learning) at IMA, NYU Shanghai
-* [Machine Learning for the Web](https://github.com/yining1023/machine-learning-for-the-web) at ITP, NYU
+* This class is based on and inspired by several classes:
+    * [Interactive Machine Learning](https://github.com/imachines/IMA-Interactive-Machine-Learning) at IMA, NYU Shanghai
+    * [Machine Learning for the Web](https://github.com/yining1023/machine-learning-for-the-web) at ITP, NYU
 
-And most of the class examples are adapted from previous classes and [ml5.js official examples](https://ml5js.org/docs/quick-start).
+* Most of the class examples are adapted from 
+    * Interactive Machine Learning and Machine Learning for the Web Classes
+    * [ml5.js official examples](https://ml5js.org/docs/quick-start)
+
+* This class is supported by
+    * [**OF COURSE**](http://ofcourse.io/) - Publication, logistic and finance
+    * [**Art Machines**](https://www.artmachines.net) - Tech supports
 
 ## Syllabus
 ### Class 1 Introduction to Machine Learning and ML5JS
@@ -82,3 +88,4 @@ And most of the class examples are adapted from previous classes and [ml5.js off
   - BodyPix from tf.js-models
   - SketchRNN, Word2Vec, LSTM quick intro
 * [Homework]()
+
