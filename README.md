@@ -12,8 +12,8 @@ The goal of this class is to learn and understand basic machine learning concept
 
 ## Special Thanks
 This class is based on and inspired by serveral classes:
-    * [Interactive Machine Learning](https://github.com/imachines/IMA-Interactive-Machine-Learning) at IMA, NYU Shanghai
-    * [Machine Learning for the Web](https://github.com/yining1023/machine-learning-for-the-web) at ITP, NYU
+* [Interactive Machine Learning](https://github.com/imachines/IMA-Interactive-Machine-Learning) at IMA, NYU Shanghai
+* [Machine Learning for the Web](https://github.com/yining1023/machine-learning-for-the-web) at ITP, NYU
 
 And most of the class examples are adapted from previous classes and [ml5.js official examples](https://ml5js.org/docs/quick-start).
 
