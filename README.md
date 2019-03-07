@@ -43,7 +43,7 @@ And most of the class examples are adapted from previous classes and [ml5.js off
   * A creative application demo with posenet
 * [Homework]()
 
-### Class 5 Image Classification - [🆕❤️Interactive Machine Learning]() KNN classifier 
+### Class 5 Image Classification - [🆕❤️Interactive Machine Learning](https://github.com/artmachines/Interactive-Machine-Learning) KNN classifier 
 
 * How KNN Classifier Works
 * Coding session:
@@ -51,7 +51,7 @@ And most of the class examples are adapted from previous classes and [ml5.js off
   * Regression with feature extractor
 * [Homework]()
 
-### Class 6 Image Classification -  [🆕❤️Interactive Machine Learning]() KNN classifier + Posenet
+### Class 6 Image Classification -  [🆕❤️Interactive Machine Learning](https://github.com/artmachines/Interactive-Machine-Learning) KNN classifier + Posenet
 
 * How KNN Classifier Works
 * Coding session:
@@ -59,14 +59,14 @@ And most of the class examples are adapted from previous classes and [ml5.js off
   * Regression with feature extractor
 * [Homework]()
 
-### Class 7 Image Style Translation - [🆕❤️GANerative Arts] Neural Style transfer and Pix2Pix 
+### Class 7 Image Style Translation - [🆕❤️GANerative Arts](https://github.com/artmachines/GANerative-Arts) Neural Style transfer and Pix2Pix 
 
 * How Neural Style Transfer Works
 * How Pix2Pix Works
 * Coding session:
   * Running style transfer model in ml5.js
   * Running pix2pix with ml5.js
-  * Breif intro and more details in [🆕❤️GANerative Arts]
+  * Breif intro and more details in [🆕❤️GANerative Arts](https://github.com/artmachines/GANerative-Arts)
     * Training a new Style Transfer model
     * Prepare dataset for pix2pix
     * Training a new pix2pix model
