@@ -1,5 +1,5 @@
 # Neuralnet On Web
-❤️AI-Art Series Classes：Neural Networks On Web ❤️AI艺术系列课程：神经互联网络
+❤️AI-Arts Series：Neural Networks On Web ❤️AI艺术系列课程：神经互联网络
 
 ## Class Information
 * Instructor: [Aven Le Zhou 周乐](https://www.aven.cc)
