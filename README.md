@@ -21,7 +21,7 @@ The goal of this class is to learn and understand basic machine learning concept
 
 * This class is supported by
     * [**OF COURSE**](http://ofcourse.io/) - Publication, logistic and finance
-    * [**Art Machines**](https://www.artmachines.net) - Tech supports
+    * [**💥Art Machines**](https://www.artmachines.net) - Tech supports
 
 ## Syllabus
 ### Class 1 Introduction to Machine Learning and ML5JS
