@@ -26,6 +26,7 @@ The goal of this class is to learn and understand basic machine learning concept
 ## Syllabus
 ### Class 1 Introduction to Machine Learning and ML5JS
 
+* [Class 1 notes](class01-material/class01.md)
 * Introduction to Machine Learning
 * Coding session:
   * Installing ml5.js
