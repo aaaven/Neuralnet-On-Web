@@ -18,3 +18,5 @@
     * Reorganize the file sturcture
 
 * Prepare an empty example with P5JS and ML5JS library
+
+* Duplicate the empty example to explore!
