@@ -34,7 +34,7 @@ The goal of this class is to learn and understand basic machine learning concept
   * How to host p5 sketch on Github pages
 * [Homework]()
 
-### Class 2 Image Classification - MobileNet and Video Classification
+### Class 2 Image/Video Classification - MobileNet
 
 * How Neural Networks Classifier Works
 * Coding session:
