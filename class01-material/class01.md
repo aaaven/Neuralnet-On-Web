@@ -15,7 +15,7 @@
 * Install ML5JS
     * [Go to link](https://ml5js.org/docs/quick-start) --> **ml5 libary**
     * Right click to save the ml5.min.js
-    * Reorganize the file sturcture
+    * Re-organize the file structure
 
 * Prepare an empty example with P5JS and ML5JS library
 
