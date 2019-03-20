@@ -7,6 +7,7 @@
         * auto-indent 0.5.0 by griiin
         * open-in-browsers 0.0.30 by skandasoft
     * Preferences --> Editors --> Softwarp (check)
+    * Install Shell Command
 
 * Install P5JS
     * [download link](https://p5js.org/download/) --> Complete Library
