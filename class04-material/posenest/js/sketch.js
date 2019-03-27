@@ -1,3 +1,8 @@
+// aven le zhou: https://aven.cc
+// 2019.03
+// AI-Arts Series: Neuralnet On Web
+// Class 04 Pose Detection, Skeleton Tracking with Posenet
+
 let video, posenet;
 let poses = [];
 
