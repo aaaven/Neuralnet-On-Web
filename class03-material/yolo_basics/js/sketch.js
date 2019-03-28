@@ -1,3 +1,9 @@
+// aven le zhou: https://aven.cc
+// 2019.03
+// AI-Arts Series: Neuralnet On Web
+// Class 03 Object Detection with YOLO
+
+
 let video, yolo;
 let output = [];
 
