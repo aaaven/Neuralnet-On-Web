@@ -7,6 +7,7 @@
         * auto-indent 0.5.0 by griiin
         * open-in-browsers 0.0.30 by skandasoft
     * Preferences --> Editors --> Softwarp (check)
+    * Install Shell Command
 
 * Install P5JS
     * [download link](https://p5js.org/download/) --> Complete Library
@@ -15,7 +16,7 @@
 * Install ML5JS
     * [Go to link](https://ml5js.org/docs/quick-start) --> **ml5 libary**
     * Right click to save the ml5.min.js
-    * Reorganize the file sturcture
+    * Re-organize the file structure
 
 * Prepare an empty example with P5JS and ML5JS library
 
