@@ -1,7 +1,7 @@
 // aven le zhou: https://aven.cc
 // 2019.04
 // AI-Arts Series: Neuralnet On Web
-// Class 02 feature extractor and learn/train in realtime
+// Class 05 feature extractor and learn/train in realtime
 
 
 let featureExtractor, classifier;
