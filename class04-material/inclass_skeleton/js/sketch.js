@@ -23,8 +23,9 @@ function draw() {
   // put drawing code here
  image(video,0,0);
  for(let i = 0; i < poses.length; i ++){
+  console.log(poses[i]);
    let skeleton = poses[i].skeleton;
-   console.log(skeleton);
+  //  console.log(skeleton);
    for(let j = 0; j < skeleton.length; j ++){
      let seg = skeleton[j];
      let startPt = seg[0].position;
