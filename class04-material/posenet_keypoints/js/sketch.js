@@ -27,11 +27,14 @@ function draw() {
   image(video,0,0);
   // console.log(poses);
   for(let i = 0; i < poses.length; i ++){
-    console.log("pose No." + i + "is detected...");
+    // console.log("pose No." + i + "is detected...");
     let pose = poses[i].pose;
     let poseScore = pose.score;
     if(poseScore > 0.3){
       let keyPts = pose.keypoints;
+      // console.log('keypoints' + poses[i].pose.keypoints.map(function(p){
+      //   return p.score, p.position.x, p.position.y;
+      // }));
       for(let j=0; j<keyPts.length; j++){
         let keyPt = keyPts[j];
         let keyPtScore = keyPt.score;
