@@ -76,24 +76,23 @@ The goal of this class is to learn and understand basic machine learning concept
   * Regression with feature extractor
 * [Homework]()
 
-### Class 7 Image Style Translation - Neural Style transfer and Pix2Pix 
+### Class 7 Image Synthesis - Neural Style transfer 
 ##### More Related Content @ [🆕❤️GANerative Arts](https://github.com/artmachines/GANerative-Arts) 
 * How Neural Style Transfer Works
 * How Pix2Pix Works
 * Coding session:
-  * Running style transfer model in ml5.js
-  * Running pix2pix with ml5.js
+  * Inference style transfer pre-trained model in ml5.js
   * Brief intro and more details in [🆕❤️GANerative Arts](https://github.com/artmachines/GANerative-Arts)
     * Training a new Style Transfer model
-    * Prepare dataset for pix2pix
-    * Training a new pix2pix model
+    * Inference custom/trained model
 * [Homework]()
 
-### Week 8 BodyPix with 🆕TensorFlow.js and More: Draw/Sketch(SketchRNN), Music/Composition(CharRNN),Text Generation(LSTM), Text Analysis/Generation(word2vec) .etc
+### Week 8 BodyPix, cVAE, cycleGAN with 🆕TensorFlow.js and More: Draw/Sketch(SketchRNN), Music/Composition(CharRNN),Text Generation(LSTM), Text Analysis/Generation(word2vec) .etc
 
 * How BodyPix Works
 * Other General Tasks ML5JS can Do 
 * Coding session:
+  - cVAE from ml5js
   - BodyPix from tf.js-models
   - SketchRNN, Word2Vec, LSTM quick intro
 * [Homework]()
